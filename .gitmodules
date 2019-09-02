@@ -2,3 +2,8 @@
 	path = intellego-bi/odoo-12
 	url = git@github.com:intellego-bi/odoo-12.git
 	branch = master
+
+[submodule "intellego-bi/odoo-tools-12"]
+	path = intellego-bi/odoo-tools-12
+	url = git@github.com:intellego-bi/odoo-tools-12.git
+	branch = master
